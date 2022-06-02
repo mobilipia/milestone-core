@@ -28,7 +28,7 @@
     "exonum-client": "exonum/exonum-client#6d76441c",
     "mocha": "^6.2.0",
     "node-fetch": "^2.6.0",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^6.11.3",
     "regenerator-runtime": "^0.13.3"
   },
   "devDependencies": {
