@@ -26,7 +26,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "exonum-client": "exonum/exonum-client#6d76441c",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "node-fetch": "^2.6.0",
     "protobufjs": "^6.8.8",
     "regenerator-runtime": "^0.13.3"
